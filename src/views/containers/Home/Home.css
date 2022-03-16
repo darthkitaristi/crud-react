@@ -1,0 +1,22 @@
+.actionButton{
+    background-color: #8f50d3;
+    margin: 5px;
+    padding: 8px 10px;
+    border-radius: 4px;
+    border: 1px solid #965dd3fc;
+    color: white;
+    cursor: pointer;
+}
+
+.actionButton i{
+    margin-right: 5px;
+}
+
+h3{
+    margin: 0px 3px 1px;
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+}

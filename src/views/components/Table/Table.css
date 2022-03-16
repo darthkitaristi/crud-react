@@ -1,0 +1,40 @@
+
+table {
+    margin: 10px 3px;
+    width: 99%;
+    border-collapse: collapse;
+}
+table, th, td {
+    border: 1px solid #545d634b;
+}
+
+th, td{
+    padding: 10px;
+}
+
+td{
+    text-align: center;
+}
+
+.imageTable{
+    width: 50px;
+}
+
+.actions {
+    display: flex;
+    justify-content: space-around;
+}
+
+.actionsCell{
+    width: 90px;
+}
+
+.actions i {
+    color: #6f459dfc;
+    cursor: pointer;
+}
+
+.pokemonImage{
+    font-size: 20pt!important;
+    color: #545d6391;
+}

@@ -1,0 +1,14 @@
+.input-field {
+    padding-left:35px !important;
+}
+   
+.icon-inside {
+    width: 200px;
+    position:relative;
+}
+
+.icon-inside i {
+    position:absolute;
+    padding:11px 15px;
+    color:#545d639e;
+}
