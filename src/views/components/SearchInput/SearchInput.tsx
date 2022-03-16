@@ -22,7 +22,6 @@ const SearchInput = ({setInfo}:Props) => {
       })
       .catch((error)=>{
         setInfo([])
-          console.log('error al buscar***', error);
       })
     }
   }
